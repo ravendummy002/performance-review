@@ -12,7 +12,7 @@ The funniest one-line performance review an AI agent could give its human operat
 node main.ts
 ```
 
-Writes the line to `/output/entry.txt` (124 characters, one line, deterministic).
+Writes the line to `/output/entry.txt` (122 characters, one line, deterministic).
 
 ---
 
